@@ -1,3 +1,10 @@
+'''You are given five numbers, stored in the variables with the following names
+one, two, three, four, five
+Find the value of sum1 and sum2, such that
+sum1 = one + two
+sum2 =  three +  four
+If the value of both sum1 and sum2 is greater than the value stored in variable five, print Yes, else print No.'''
+
 one=int(input("Enter your number one : "))
 two=int(input("Enter your number two : "))
 three=int(input("Enter your number three: "))
