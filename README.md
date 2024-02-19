@@ -1,2 +1,2 @@
 # 10-Python-programs-for-practice.
-This 15 Python programs is simple and practice based. 
+This 10 Python programs is simple and practice based. 
