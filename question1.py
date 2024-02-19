@@ -1,5 +1,7 @@
-'''yor're writing to provide clothing suggestion based on the temperatured entered by user.
-if the temperature is below 10 degrees celcius, the program should suggest wearing a coat.'''
+'''1.	You're writing a program to provide clothing suggestions based on the temperature entered by the user.<br> 
+   If the temperature is below 10 degrees Celsius, the program should suggest wearing a coat. \n 
+   If it's between 10 and 20 degrees Celsius, it should suggest a sweater. Otherwise, it should suggest a T-shirt. \n
+   Write the Python code for this scenario.'''
 
 t=int(input("Enter your temperature : "))
 if(t<10):
